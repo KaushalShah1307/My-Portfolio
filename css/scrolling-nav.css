@@ -159,6 +159,7 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 15%;
     background: rgba(23, 27, 30, 0.8);
+    font-size: large;
 }
 
 .footer {
