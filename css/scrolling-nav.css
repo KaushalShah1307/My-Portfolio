@@ -51,7 +51,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .intro-section:after {
-    background-image: url('/images/wall-bg.png');
+/*    background-image: url('/images/wall-bg.png'); */
 	content: "";
 	position: fixed;
 	bottom: 0;
